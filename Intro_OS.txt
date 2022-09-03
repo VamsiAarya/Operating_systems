@@ -1,0 +1,38 @@
+What is OS?
+Ans : An interface between user and hardware
+Eg : Windows, Linux, MacOS, Ubuntu, AndroidS
+
+Softwares ??
+A Tested program which can perform tasks.
+
+Types of Softwares?
+Application Softwares, System Softwares.
+
+Flow :
+
+    User 
+     | ^
+     v |
+    Applications
+     | ^
+     v |
+    System Software (OS)
+     | ^
+     v |
+    Hardware (CPU, I/O devices, Memory )
+
+1) OS is a resource manager.
+
+a> cpu = processor management ( Scheduling -how long an operation take place)
+b> memory = memory management-  managing RAM
+
+* No program start executing without os allocating memory in main memory
+
+c> I/O device management = Mouse, Keyboard, Monitor
+d> Storage management = secondary memory => file system, hard disk management
+e> Security of the device 
+
+
+Types of OS:
+1. GUI  --> Graphical interface (Windows, MacOS)
+2. CUI  --> Command Interface   (Linux) 
